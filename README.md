@@ -1,2 +1,2 @@
 # Amazon-Clone
-HTML &amp; CSS Project
+HTML CSS
